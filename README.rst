@@ -101,7 +101,7 @@ Create deployment directory
 
 When installing for the first time, you will need to initialize the project setup files by typing:
 
-   segfault-setup
+   askbot-setup
 
 and answering the questions. The segfault-setup script will ask you where to deploy Segfault. If you are in the directory where the Segfault project resides, you can answer . (. refers to the current directory). There may be an error message; ignore it.
 
